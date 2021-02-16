@@ -4,7 +4,7 @@
 - 💞️ I’m looking for someone, russian native speaker would be nice, who would like to work with me on a russian-french translator from ground up.
 - 📫 You can reach me by mail : sviosdi@yandex.ru
 
-Work done from so far :
+Work done so far :
 
 * Implementation of a JSON parser in C++.
 * Implementation of Signal&Slot in C++, that enable a Signal (with templated parameters) to be connect to any function or method of a class, and be automatically disconnected when the connected object is distroyed.
